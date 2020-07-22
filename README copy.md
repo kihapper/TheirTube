@@ -2,9 +2,10 @@
 
 # TheirTube Scraper
 
+TheirTube scraper allows you to scrape your own Youtube top page 
+
 Theirtube is a Youtube filter bubble simulator that provides a look into how videos are recommended on other people's YouTube.  🔗[their.tube](https://www.their.tube). 
 
-TheirTube scraper allows to retireve your own Youtube recommendation results on your local environment
 
 ![Scraper Image](./images/theirtube_backend.gif)
 
@@ -16,13 +17,13 @@ The main dependancy of theirtube is puppeteer is [puppeteer](https://github.com/
 
 
 ```javascript
-git clone https://...
+git clone https://github.com/kihapper/TheirTube.git
 
 npm install 
 
 npm run scrape
 ```
-When activating for the first time, it will require you to login to your Youtube account on puppeteer. When you login, your login-cookie information will be saved under __/cookies/theirtube_cookie__ , allowing you to access to your Youtube accout on the next run scrape command. When you want to switch between accounts, swap this cookie to login to different channels.
+When activating for the first time, it will require you to log in to your Youtube account on puppeteer. When you log in, your login-cookie information will be saved under __/cookies/theirtube_cookie__ , allowing you to access to your Youtube account on the next run scrape command. When you want to switch between accounts, swap this cookie to login to different channels.
 
 ----
 
@@ -57,7 +58,7 @@ The youtube top page will be saved in the following JSON format. You can specify
 
 ## Screenshot
 
-Everytime it gets the data, it will also get a screenshot of the Youtube top-page. You can see them in the __/screenshot/images__ folder.
+Every time it gets the data, it will also get a screenshot of the Youtube top-page. It will create a new folder everyday in the manner of the file structure below.
 
 ```javascript
 .
