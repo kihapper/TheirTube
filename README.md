@@ -17,6 +17,8 @@ The main dependancy of theirtube is puppeteer is [puppeteer](https://github.com/
 ```javascript
 git clone https://github.com/kihapper/TheirTube.git
 
+cd TheirTube
+
 npm install 
 
 npm run scrape
