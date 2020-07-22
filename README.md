@@ -8,7 +8,6 @@ TheirTube scraper allows to retireve your own Youtube recommendation results on 
 
 ![Scraper Image](./images/theirtube_backend.gif)
 
-----
 
 ## Installation
 
@@ -24,7 +23,7 @@ npm run scrape
 ```
 When activating for the first time, it will require you to login to your Youtube account on puppeteer. When you login, your login-cookie information will be saved under __/cookies/theirtube_cookie__ , allowing you to access to your Youtube accout on the next run scrape command. When you want to switch between accounts, swap this cookie to login to different channels.
 
-----
+
 
 
 ## Usage
