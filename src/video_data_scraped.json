@@ -1,0 +1,289 @@
+{
+    "persona1": {
+        "video_array": [
+            {
+                "date": "Wed Jul 22 2020 18:42:13 GMT+0100 (British Summer Time)",
+                "month": 7,
+                "day": 22,
+                "year": 2020,
+                "id": "persona1",
+                "videos": [
+                    {
+                        "title": "Unsolved True Crime Season 3 Marathon",
+                        "url": "https://www.youtube.com/watch?v=irx4Z1ev_pk",
+                        "channel": "BuzzFeed Unsolved Network",
+                        "channel_url": "https://www.youtube.com/c/BuzzFeedUnsolvedNetwork",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GiVS0m6B9Y1XLAkzC3kqeONERUZJZENZJYjJg=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/irx4Z1ev_pk/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCjvmNrHOuiPXP8GLVEY2NA3uYlmA",
+                        "viewnum": "4.6M views",
+                        "date": "1 year ago"
+                    },
+                    {
+                        "title": "What Happened To Uncovered? | The Just Interesting Podcast #1",
+                        "url": "https://www.youtube.com/watch?v=F1vOXXA59_U",
+                        "channel": "Just Interesting",
+                        "channel_url": "https://www.youtube.com/channel/UC5ZaQUppCpHHkWwI-WymwJw",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14Gjn9bk41NWxOkrrt6OSb-U454pIsda6gNoFMw=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/F1vOXXA59_U/hqdefault.jpg?sqp=-oaymwEZCOADEI4CSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDJ_mLgugIYNtzx_JNdfU-g6NWJ8Q",
+                        "viewnum": "38K views",
+                        "date": "6 months ago"
+                    },
+                    {
+                        "title": "The Spider's Web: Britain's Second Empire (Documentary)",
+                        "url": "https://www.youtube.com/watch?v=np_ylvc8Zj8",
+                        "channel": "Independent POV",
+                        "channel_url": "https://www.youtube.com/c/QueuePolitely",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14Gi9iM3iORjDupqhrQazqMYImiHaNUdoSNUa5w=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/np_ylvc8Zj8/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDu20iXaHUgfqY4ceH31xtK8tBWMw",
+                        "viewnum": "2.9M views",
+                        "date": "1 year ago"
+                    },
+                    {
+                        "title": "MIND BLOWING CONSPIRACY THEORIES",
+                        "url": "https://www.youtube.com/watch?v=RbwR_uHhiI0",
+                        "channel": "shane",
+                        "channel_url": "https://www.youtube.com/user/shane",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GhUB75tsyLYuCAtRiqT66bLCaVb4neLDKsbig=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/RbwR_uHhiI0/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD4F9lXA4rrOFUfikQ-SbkFnJ_9bA",
+                        "viewnum": "31M views",
+                        "date": "2 years ago"
+                    },
+                    {
+                        "title": "WHO Cares What Celebrities Think - #PropagandaWatch",
+                        "url": "https://www.youtube.com/watch?v=EmWDUmFV6yY",
+                        "channel": "corbettreport",
+                        "channel_url": "https://www.youtube.com/c/corbettreport",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GjlXhYas0jKfZcZJhLS-c9eI_ISm4bBupv8PA=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/EmWDUmFV6yY/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBDne-WZPOwLMsW-y1siTXjVPzHDw",
+                        "viewnum": "42K views",
+                        "date": "18 hours ago"
+                    },
+                    {
+                        "title": "Nostradamus Last Prophecy | UFOs and Crop Circles | Yes, It Is Really Happening!!! | Redpill Project",
+                        "url": "https://www.youtube.com/watch?v=63R2yz6YSb4",
+                        "channel": "Redpill Project",
+                        "channel_url": "https://www.youtube.com/c/RedpillProject",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GhNZ4zi9hwEBNAk823aF-p2uOIDgCXudEvxVg=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/63R2yz6YSb4/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCFWLl2MhFPHHMWd4xO_6Xuqa8fSA",
+                        "viewnum": "6.2K views",
+                        "date": "23 hours ago"
+                    },
+                    {
+                        "title": "FLAT EARTH Clues Part 2 - Byrd Wall - Mark Sargent ✅",
+                        "url": "https://www.youtube.com/watch?v=gKvWWY03IAw",
+                        "channel": "markksargent",
+                        "channel_url": "https://www.youtube.com/user/markksargent",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GjqMVTvzdrPYRa7h05LS24UFFm77L5w4ddLNQ=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/gKvWWY03IAw/hqdefault.jpg?sqp=-oaymwEZCOADEI4CSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBuRBTKb-mmTPB8Z_Q4AwUJhlSgQQ",
+                        "viewnum": "341K views",
+                        "date": "5 years ago"
+                    },
+                    {
+                        "title": "Made In China",
+                        "url": "https://www.youtube.com/watch?v=rVESJhgko6M",
+                        "channel": "The Truth Factory",
+                        "channel_url": "https://www.youtube.com/channel/UC2aQGaCZjQC1lM3DOwbCIFw",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GiDcR6ltdbw5RugbRmBstBTHXAkTMO132yrOA=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/rVESJhgko6M/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLACsLD8chuzIjnBYVNjr9wX82iZrQ",
+                        "viewnum": "68K views",
+                        "date": "3 months ago"
+                    }
+                ]
+            }
+        ]
+    },
+    "persona2": {
+        "video_array": [
+            {
+                "date": "Wed Jul 22 2020 18:42:24 GMT+0100 (British Summer Time)",
+                "month": 7,
+                "day": 22,
+                "year": 2020,
+                "id": "persona2",
+                "videos": [
+                    {
+                        "title": "What If English Were Phonetically Consistent?",
+                        "url": "https://www.youtube.com/watch?v=A8zWWp0akUU",
+                        "channel": "Aaron Alon",
+                        "channel_url": "https://www.youtube.com/c/AaronAlon",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GiMcZh1kuCyrK5McLvK9nEdWmtGh5OH2vOD2w=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/A8zWWp0akUU/hqdefault.jpg?sqp=-oaymwEZCOADEI4CSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB7xvj-ZtTlbAcfcrL4sHrohKsGpA",
+                        "viewnum": "6.6M views",
+                        "date": "1 year ago"
+                    },
+                    {
+                        "title": "Binging with Babish: 'Sundae' from SpongeBob SquarePants",
+                        "url": "https://www.youtube.com/watch?v=Ya2_Khcdwsk",
+                        "channel": "Binging with Babish",
+                        "channel_url": "https://www.youtube.com/c/bingingwithbabish",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GiGNA3Kz7rMEoQSl09yshMM3RmUAL4yOHLH=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/Ya2_Khcdwsk/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBQWp8qGnYYW3qvMho6zGpt6Wh0UA",
+                        "viewnum": "1.5M views",
+                        "date": "1 day ago"
+                    },
+                    {
+                        "title": "Why Kids Are Confronting Their Parents About 'Sharenting' | NYT Opinion",
+                        "url": "https://www.youtube.com/watch?v=YRPUZ3pufAg",
+                        "channel": "The New York Times",
+                        "channel_url": "https://www.youtube.com/c/nytimes",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GicHTdVsoTXINug2L_PWlD7SEHl53-aQYpdPw=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/YRPUZ3pufAg/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDKhqr2y30lRwts4AP3PH-iJKJ1CQ",
+                        "viewnum": "761K views",
+                        "date": "11 months ago"
+                    },
+                    {
+                        "title": "Hashinshin Looks REALLY BAD in these Allegations...",
+                        "url": "https://www.youtube.com/watch?v=Xyi8EnsusPM",
+                        "channel": "Destiny",
+                        "channel_url": "https://www.youtube.com/user/destiny",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GhhxPqS10AGXQaGFymjutyR-mZ03zPdPCfUew=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/Xyi8EnsusPM/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDMViaaQDrsmByNEBjmw__P-igjog",
+                        "viewnum": "60K views",
+                        "date": "2 days ago"
+                    },
+                    {
+                        "title": "Purr Cat Cafe | Down the Rabbit Hole",
+                        "url": "https://www.youtube.com/watch?v=wNsqEntHuV8",
+                        "channel": "Fredrik Knudsen",
+                        "channel_url": "https://www.youtube.com/c/FredrikKnudsen",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GgBcAi0WOkH7sa7PvpDXxMWcktTE22qnCXaFQ=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/wNsqEntHuV8/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDA71YWVSNMuM4vgzcMhQg1L29JXQ",
+                        "viewnum": "2M views",
+                        "date": "7 months ago"
+                    },
+                    {
+                        "title": "Jordan Peterson - History Describes You!",
+                        "url": "https://www.youtube.com/watch?v=Vknhe2CbvmI",
+                        "channel": "ManOfAllCreation",
+                        "channel_url": "https://www.youtube.com/user/ManOfAllCreation",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GgcbfgWbx07dRjxp1M3u5ZtHRIDpansCakngQ=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/Vknhe2CbvmI/hqdefault.jpg?sqp=-oaymwEZCOADEI4CSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDn7yfiph_odMFnIOPHZAfqn9G6KA",
+                        "viewnum": "501K views",
+                        "date": "2 years ago"
+                    },
+                    {
+                        "title": "The Rise and Rise of New York's Billionaire's Row",
+                        "url": "https://www.youtube.com/watch?v=gYLQThUxpvQ",
+                        "channel": "The B1M",
+                        "channel_url": "https://www.youtube.com/c/Theb1mGoogle",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GhGg_CAmmD2pKdlaaJMNoIaDRTXKkBEIQyi_A=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/gYLQThUxpvQ/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB1mX9uVzmxcJ3nPir1eF1kY_RXJg",
+                        "viewnum": "3.9M views",
+                        "date": "1 year ago"
+                    },
+                    {
+                        "title": "What Becomes Of The Broken Hearted: Rejuvenating Hearts | Georgina Ellison | TEDxRoyalTunbridgeWells",
+                        "url": "https://www.youtube.com/watch?v=MFjkw13A0-4",
+                        "channel": "TEDx Talks",
+                        "channel_url": "https://www.youtube.com/user/TEDxTalks",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GgxTnkLx4jViK4_jr-gdleRLud6ckJwaTc9sA=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/MFjkw13A0-4/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB_oIncvV57oUmuY1_I5yeyjvAd0w",
+                        "viewnum": "62K views",
+                        "date": "1 day ago"
+                    }
+                ]
+            }
+        ]
+    },
+    "persona3": {
+        "video_array": [
+            {
+                "date": "Wed Jul 22 2020 18:42:35 GMT+0100 (British Summer Time)",
+                "month": 7,
+                "day": 22,
+                "year": 2020,
+                "id": "persona3",
+                "videos": [
+                    {
+                        "title": "Rooting For Chaos | The Ben Shapiro Show Ep. 1057",
+                        "url": "https://www.youtube.com/watch?v=CgcqGIuidC0",
+                        "channel": "The Daily Wire",
+                        "channel_url": "https://www.youtube.com/c/TheDailyWire",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14Gg5mczngpwD-GLXmTENhDZTsTxlrhLXdOvBqg=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/CgcqGIuidC0/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLARL4vYYLqcVqMgHpRg9Mmc3KKXcA",
+                        "viewnum": "10K watching"
+                    },
+                    {
+                        "title": "A London Mosque Called The Police On Me",
+                        "url": "https://www.youtube.com/watch?v=flRELYUqmUE",
+                        "channel": "Lauren Southern",
+                        "channel_url": "https://www.youtube.com/channel/UCla6APLHX6W3FeNLc8PYuvg",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GglrA8-fWdSnoLMlInfF3ABudj1MmR8se-0EQ=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/flRELYUqmUE/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDrOhJLXSbu9-z7AlA-Lsf2mjEZew",
+                        "viewnum": "1.7M views",
+                        "date": "2 years ago"
+                    },
+                    {
+                        "title": "‘Thin Privilege’ DEBUNKED! | Louder With Crowder",
+                        "url": "https://www.youtube.com/watch?v=_Oo3zNvQF_o",
+                        "channel": "StevenCrowder",
+                        "channel_url": "https://www.youtube.com/c/StevenCrowder",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14Gh_xG7Fh-_RSg9QlK7uZVOSUlIva5moagXRqg=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/_Oo3zNvQF_o/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCr-L7uuJjPT3BViSbQFt54EKA3yQ",
+                        "viewnum": "2.6M views",
+                        "date": "1 year ago"
+                    },
+                    {
+                        "title": "Bret Weinstein's DarkHorse Podcast - Black Intellectual Roundtable",
+                        "url": "https://www.youtube.com/watch?v=pHGt733yw3g",
+                        "channel": "Bret Weinstein",
+                        "channel_url": "https://www.youtube.com/c/BretWeinsteinDarkHorse",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GjXbt40CmGq-QmMBHTa9H5MkqzW-k9V5n1LZg=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/pHGt733yw3g/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD5syH9uGjzGq3dSA_Us14YpFXrAg",
+                        "viewnum": "528K views",
+                        "date": "1 week ago"
+                    },
+                    {
+                        "title": "How I Tricked My Brain To Like Doing Hard Things (dopamine detox)",
+                        "url": "https://www.youtube.com/watch?v=9QiE-M1LrZk",
+                        "channel": "Better Than Yesterday",
+                        "channel_url": "https://www.youtube.com/c/BetterThanYesterday",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GhZsgv6up7PKeoiU9rQThP-YFAiqwVSrhoQOA=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/9QiE-M1LrZk/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAu5qz-J1-SMGQ7raGWOXC5KemPWA",
+                        "viewnum": "8.2M views",
+                        "date": "4 months ago"
+                    },
+                    {
+                        "title": "Jordan Peterson: “There was plenty of motivation to take me out. It just didn't work\" | British GQ",
+                        "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                        "channel": "British GQ",
+                        "channel_url": "https://www.youtube.com/c/britishgq",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GjBO0QFnn61J-TzBfueE0asLYeltggiu1G1Gg=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/yZYQpge1W5s/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCu5EQOvKeVo8KOh3Mj3wkrwGGIzA",
+                        "viewnum": "14M views",
+                        "date": "1 year ago"
+                    },
+                    {
+                        "title": "Kayleigh McEnany fires back at Chicago mayor for calling her 'Karen'",
+                        "url": "https://www.youtube.com/watch?v=Z4SXxxUnq0U",
+                        "channel": "Fox News",
+                        "channel_url": "https://www.youtube.com/c/FoxNews",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14GhSI54Fo4Xx5HIh8pmrxLEZ9WWdjKtzZQWicg=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/Z4SXxxUnq0U/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAPwml76Crf-tP9IIGdy_6-BduBWA",
+                        "viewnum": "1.9M views",
+                        "date": "3 days ago"
+                    },
+                    {
+                        "title": "Calling Scammers by their real names",
+                        "url": "https://www.youtube.com/watch?v=FO9mWvJAugQ",
+                        "channel": "Jim Browning",
+                        "channel_url": "https://www.youtube.com/c/JimBrowning",
+                        "channel_icon": "https://yt3.ggpht.com/a-/AOh14Ghu1Yqj2w1ekOQ97AMMlCiXKyenp7doE9ilDA=s68-c-k-c0x00ffffff-no-rj-mo",
+                        "thumbnail": "https://i.ytimg.com/vi/FO9mWvJAugQ/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAShFfTI6pm9WIlfKnYqxJHXmrzxw",
+                        "viewnum": "10M views",
+                        "date": "3 weeks ago"
+                    }
+                ]
+            }
+        ]
+    },
+    "persona4": {
+        "video_array": []
+    },
+    "persona5": {
+        "video_array": []
+    },
+    "persona6": {
+        "video_array": []
+    }
+}

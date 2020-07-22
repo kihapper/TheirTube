@@ -1,0 +1,20 @@
+{
+  "name": "version1",
+  "version": "1.0.0",
+  "description": "Testing Scraping",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node src/index.js"
+  },
+  "author": "kihapper",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "node-schedule": "^1.3.2",
+    "puppeteer": "^2.1.1",
+    "puppeteer-extra": "^3.1.9",
+    "puppeteer-extra-plugin-stealth": "^2.4.9",
+    "yargs": "^15.3.1"
+  }
+}
