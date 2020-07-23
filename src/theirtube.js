@@ -3,12 +3,9 @@ const fs = require('fs');
 const path = require('path');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const chalk = require('chalk');
-
 const BASE_URL = 'https://www.youtube.com/';
-
 //directory of cookie where the puppeteer will look for.
 const COOKIE_PATH = path.join(__dirname, '../cookies/curator1_cookie');
-
 //path to where the scraped data goes
 const JSON_PATH = path.join(__dirname, '/video_data_scraped.json');
 

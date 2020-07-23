@@ -1,4 +1,3 @@
-//Other javascript that will be used
 const theirtube = require('./theirtube.js');
 const schedule = require('node-schedule');
 const argv = require('yargs').argv;
@@ -6,6 +5,8 @@ const chalk = require('chalk');
 
 let minute;
 let hour;
+let iterationAmmount;
+let iterationCount = -1;
 
 //npm run scrape -- --scrapeMinute=03 --scrapeHour=17 
 if ( (argv.scrapeMinute != null) && (argv.scrapeHour != null)) {
@@ -17,9 +18,6 @@ if ( (argv.scrapeMinute != null) && (argv.scrapeHour != null)) {
    hour = "12";
    console.log(chalk.black.bgYellowBright("Time not set : Theirtube Scraping Everyday at — " + hour + ":" + minute + '\n'));
  }
-
-let iterationAmmount;
-let iterationCount = -1;
 
 
 //Using the acount below can switch between several accounts.
@@ -47,7 +45,7 @@ let schedulebot = schedule.scheduleJob(minute+" "+hour+" * * *", function(){
 
 
  async function scrapeAll() {
-  //initialise the login procedure
+  //initialise when activating for the first time.
   if(iterationCount==0){
   await theirtube.initialize();}
 
