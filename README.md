@@ -11,7 +11,7 @@ TheirTube scraper allows to retireve your own Youtube recommendation results on 
 
 ## Installation
 
-The main dependancy of theirtube is puppeteer is [puppeteer](https://github.com/puppeteer/puppeteer) ver 2.1.1,  [node-schedule](https://www.npmjs.com/package/node-schedule) ver 1.3.2 running on node.js ver 12
+The main dependancy of theirtube is [puppeteer](https://github.com/puppeteer/puppeteer) ver 2.1.1,  [node-schedule](https://www.npmjs.com/package/node-schedule) ver 1.3.2 running on node.js ver 12
 
 
 ```javascript
