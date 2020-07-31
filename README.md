@@ -4,7 +4,7 @@
 
 Theirtube is a Youtube filter bubble simulator that provides a look into how videos are recommended on other people's YouTube.  🔗[their.tube](https://www.their.tube). 
 
-TheirTube scraper allows to retireve your own Youtube recommendation results on your local environment
+TheirTube scraper allows to retrieve your own Youtube recommendation results on your local environment
 
 ![Scraper Image](./images/theirtube_backend.gif)
 
